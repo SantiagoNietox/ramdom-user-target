@@ -1,3 +1,3 @@
 # ramdom-user-target
 
-## LOS UNICOS PASOS PARA EJECUTAR ESTE PROYECTO ES TENER UNA CONEXION A INTERNET Y ABRIR EL ARCHIVO INDEX.HTML
+## Los unicos pasos para ejecutar este proyecto es tener una conexion a internet y luego abrir el index.html
